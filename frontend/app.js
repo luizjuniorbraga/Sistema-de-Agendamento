@@ -1,6 +1,6 @@
 const { useState, useEffect } = React;
 
-const API = "http://localhost:3000/agendamentos";
+const API = "https://sistema-de-agendamento-3jiw.onrender.com/agendamentos";
 
 const SERVICOS = {
   corte: { nome: "Corte de Cabelo", preco: 40 },
